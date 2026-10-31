@@ -26,3 +26,18 @@ My project for the SIGNATE 2025 S Cup competition.
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=yuki20001105&theme=juicyfresh&no-bg=true" alt="GitHub profile trophies" />
 </div>
+
+## GitHub Metrics
+
+![GitHub Metrics](./output/metrics.svg)
+
+## 3D Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-night-rainbow.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-season-animate.svg" />
+  <img alt="GitHub contributions in 3D" src="./profile-3d-contrib/profile-season.svg" />
+</picture>
+
+Generated from publicly accessible GitHub information using the automatic `GITHUB_TOKEN`.
+Updates are scheduled daily at 00:00 UTC (09:00 JST), and can also be run manually from Actions.
