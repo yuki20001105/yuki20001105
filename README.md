@@ -36,7 +36,9 @@ this profile repository, not all of my public repositories. Repository-based
 totals, languages, and issue/pull-request follow-up are therefore limited to
 `yuki20001105/yuki20001105`; the existing stats cards above remain separate.
 Achievements are disabled because Metrics v3.34 queries the retired GitHub
-Projects (classic) API. No personal access token is used.
+Projects (classic) API. Follow-up is shown only when both issues and pull requests
+exist in this repository, since v3.34 renders invalid coordinates for empty charts.
+No personal access token is used.
 
 ## 3D Contribution Graph
 
