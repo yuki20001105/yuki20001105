@@ -10,7 +10,8 @@ A horse-racing prediction application with race data collection, feature enginee
 ### [SIGNATE 2025 S Cup](https://github.com/yuki20001105/signate_2025_sCup)
 My project for the SIGNATE 2025 S Cup competition.
 
-## Tech
+## Skills
 
-- Python
-- LightGBM
+- **Languages**: JavaScript, Python, Java
+- **Frameworks**: React, Node.js, Django, FastAPI, Streamlit
+- **Tools**: Git, Docker, VS Code
