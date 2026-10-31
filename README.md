@@ -15,3 +15,14 @@ My project for the SIGNATE 2025 S Cup competition.
 - **Languages**: JavaScript, Python, Java
 - **Frameworks**: React, Node.js, Django, FastAPI, Streamlit
 - **Tools**: Git, Docker, VS Code
+
+## GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yuki20001105&show_icons=true&locale=ja&theme=chartreuse-dark" alt="Yuki's GitHub stats" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yuki20001105&show_icons=true&locale=ja&layout=compact&theme=chartreuse-dark" alt="Top Languages" height="165" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=yuki20001105&theme=juicyfresh&no-bg=true" alt="GitHub profile trophies" />
+</div>
